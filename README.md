@@ -3,7 +3,10 @@ Code related to the "Introduction to Temporal" workshop that I am teaching
 at the We Are Developers conference in Berlin (July 11, 2025).
 
 ## Prerequisites
-To complete the hands-on exercises in this workshop, you need three things:
+We will use GitHub codespaces for this workshop, so there is nothing to
+install, and you can skip this section. However, if you wish to run these
+exercises locally once the workshop is over, you'll need three things:
+
 1. A clone of this repository to your laptop
 2. A working installation of [Go](https://go.dev/dl/), version 1.23 or higher
 3. A working installation of the `temporal` command-line tool, also known as
