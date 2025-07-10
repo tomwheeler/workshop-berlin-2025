@@ -34,7 +34,8 @@ To open the Web UI, click the "PORTS" tab near the middle of the screen
 
 ![4 — Ports Tab](https://raw.githubusercontent.com/temporalio/temporal-learning/refs/heads/main/static/courses/common/codespaces/4-ports-tab.png)
 
-Then, on the row for Port 8080, Ctrl+click (Cmd+click on Mac) on the 
+Then, on the row for Port 8233 (note that this differs from the screenshot, 
+which uses port 8080), Ctrl+click (Cmd+click on Mac) on the 
 "Forwarded Address" link highlighted in blue like a regular URL:
 
 ![5 — Port 8080 URL](https://raw.githubusercontent.com/temporalio/temporal-learning/refs/heads/main/static/courses/common/codespaces/5-port-8080-url.png)
